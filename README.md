@@ -1,4 +1,5 @@
-# Forge Networking Remastered Issue #201 - RPCs causing clients to disconnect from server
+# Forge Networking Remastered Issue #201
+## RPCs causing clients to disconnect from server
 Unity Project for simplified reproduction of Forge Networking Remastered Issue #201 https://github.com/BeardedManStudios/ForgeNetworkingRemastered/issues/201
 
 ## How to use
