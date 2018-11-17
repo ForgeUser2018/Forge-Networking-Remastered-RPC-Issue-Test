@@ -14,6 +14,7 @@ First **[DOWNLOAD](https://github.com/ForgeUser2018/Forge-Networking-Remastered-
    - After a short amount of time, the clients will be disconnected and return to the MultiplayerMenu scene.
 
 ###### Additional Info
+The standard forge cube example has been modified to use RPCs for the networked cameras to send their position across the network.
 The RPC calls are sent in the NetCam.cs script located in Assets/Bearded Man Studios Inc/Examples/Cube Forge/Scripts.
 
 Forge Networking Remastered source ([master repo](https://github.com/BeardedManStudios/ForgeNetworkingRemastered/tree/master) cloned on 2018-11-17) is used in this project for easier debugging.
