@@ -2,6 +2,10 @@
 ## RPCs causing clients to disconnect from server
 Unity Project for simplified reproduction of Forge Networking Remastered Issue #201 https://github.com/BeardedManStudios/ForgeNetworkingRemastered/issues/201
 
+## ISSUE RESOLVED: 
+Resolution to disconnecting after too many RPC calls
+https://github.com/BeardedManStudios/ForgeNetworkingRemastered/commit/ff31f675f553a326ad2be04d21a97b894ecea5fd
+
 ## How to use
 First **[DOWNLOAD](https://github.com/ForgeUser2018/Forge-Networking-Remastered-RPC-Issue-Test/raw/master/Forge%20Networking%20Remastered%20RPC%20Issue%20Test.unitypackage)** the Unity Package and import it into a fresh Unity project. Then continue with the following steps:
 
